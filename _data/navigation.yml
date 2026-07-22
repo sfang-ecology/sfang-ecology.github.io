@@ -9,9 +9,9 @@
 
 main:
 
-  - title: "About"
+  - title: "News"
 
-    url: /
+    url: /news/
 
   - title: "Publications"
 
@@ -20,10 +20,6 @@ main:
   - title: "Projects"
 
     url: /portfolio/
-
-  - title: "Blog"
-
-    url: /year-archive/
 
   - title: "CV"
 
