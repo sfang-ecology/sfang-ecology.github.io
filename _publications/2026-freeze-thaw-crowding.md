@@ -11,7 +11,7 @@ authors: "J. Ren, <strong>S. Fang</strong>, G. Hao, F. Lin, J. Ye, Z. Hao, X. Wa
 excerpt: "We show that winter freeze–thaw cycles and neighborhood crowding independently reduce tree growth in a humid temperate forest, and that xylem hydraulic traits mediate species’ sensitivity to these stressors."
 paperurl: ""
 pdf: "/files/2026-AFM-freeze-thaw.pdf"
-doi: ""
+doi: "https://doi.org/10.1016/j.agrformet.2025.110954"
 citation: "J. Ren, S. Fang, G. Hao, F. Lin, J. Ye, Z. Hao, X. Wang & C. Fortunel. 2026. Functional traits shape tree growth response to winter freeze-thaw cycle and neighborhood crowding in humid temperate forests. Agricultural and Forest Meteorology, 377: 110954."
 bibtex: |
   @article{ren2026functional,
