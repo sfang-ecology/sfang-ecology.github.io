@@ -11,7 +11,7 @@ authors: "<strong>S. Fang</strong>, J. Ren, M. W. Cadotte, Z. Yuan, Z. Hao, X. W
 excerpt: "We examined the separate and joint effects of disturbance intensity, neighborhood crowding and soil conditions on tree growth in temperate forests in northeast China."
 paperurl: ""
 pdf: "/files/2024-Oecologia-Disturbance.pdf"
-doi: ""
+doi: "https://doi.org/10.1007/s00442-024-05570-7"
 citation: "S. Fang, J. Ren, M. W. Cadotte, Z. Yuan, Z. Hao, X. Wang, F. Lin & C. Fortunel. 2024. Disturbance history, neighborhood crowding and soil conditions jointly shape tree growth in temperate forests. Oecologia, 205: 295–306."
 bibtex: |
   @article{fang2024disturbance,
